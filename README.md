@@ -3,6 +3,7 @@
 ## Awesome project
 
 This project is the front end
+Please go yo [Home page](https://github.com/makingdevs/AwesomeProject/wiki) for more details
 
 ## The Live Counter
 
