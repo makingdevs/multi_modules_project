@@ -1,3 +1,6 @@
 [submodule "the_live_counter"]
 	path = the_live_counter
 	url = git@github.com:makingdevs/the_live_counter.git
+[submodule "AwesomeProject"]
+	path = AwesomeProject
+	url = git@github.com:makingdevs/AwesomeProject.git
